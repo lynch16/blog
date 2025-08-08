@@ -3,6 +3,8 @@
 # Cartridge Transfer Instructions
 These instructions will walk you through transfering from a dead or malfunctioning cartridge into a known good one. 
 
+<img src="./images/full-assembly-labeled.png" alt="Full assembly" width="200"/>
+
 ## Definitions
  | Name | Description | Part Number | Drawing | 
  |-----------|---------|-------------|---------|
