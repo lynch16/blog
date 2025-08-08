@@ -31,23 +31,23 @@ These instructions will walk you through transfering from a dead or malfunctioni
 ## Transfer Process
 ### Setup
 1. Screw Receiving Tube into Receiving Base (No. 5) // TODO: Image
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Reminder: This is the tube that empty and known working
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Reminder: This is the tube that empty and known working
 2. Screw Sending Tube into Sending Base (No. 1) // TODO: Image
 
 ### Assemble Receiving Block
 1. Carefully unscrew the mouthpiece from the cartridge. It may require careful plier application to the mouthpiece to loosen. 
-- **DO NOT** hold glass with pliers or it will shatter. 
-- **Keep this mouthpiece. You will use it at the end to reassemble the cartridge**
-- See Appendix for help unscrewing your particular model // TODO appendix entry
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **DO NOT** hold glass with pliers or it will shatter. 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Keep this mouthpiece. You will use it at the end to reassemble the cartridge**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - See Appendix for help unscrewing your particular model // TODO appendix entry
 2. Keeping the part numbers facing the same direction, place the Receiving Positioner (No. 4) over the Receiving Tube until it seats against the Receiving Base (No. 5). You may hear a slight click as it snap-fits in place.
-- To check alignment, the top of the cartridge screw should be in line with the top of the Receiving Positioner. // TODO image up close for alignment and overall to show the combined view
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - To check alignment, the top of the cartridge screw should be in line with the top of the Receiving Positioner. // TODO image up close for alignment and overall to show the combined view
 
 ### Assemble Sending Block
 1. Carefully unscrew the mouthpiece from the cartridge. It may require careful plier application to the mouthpiece to loosen. 
-- **DO NOT** hold glass with pliers or it will shatter. 
-- See Appendix for help unscrewing your particular model // TODO appendix entry
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **DO NOT** hold glass with pliers or it will shatter. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- See Appendix for help unscrewing your particular model // TODO appendix entry
 2.  Keeping the part numbers facing the same direction, place the Sending Positioner (No. 2) over the Sending Tube until it seats against the Sending Base (No. 1). You may hear a slight click as it snap-fits in place.
-- To check alignment, the top of the cartridge screw should be in line with the top of the Sending Positioner, excluding the pins. // TODO image up close for alignment and overall to show the combined view
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To check alignment, the top of the cartridge screw should be in line with the top of the Sending Positioner, excluding the pins. // TODO image up close for alignment and overall to show the combined view
 3. Add Gasket over Sending Positioner pins, with the "button", the protruding bump on the gasket, facing away from the Sending Positioner and the same direction as the pins. 
 
 ### Complete Assembly
