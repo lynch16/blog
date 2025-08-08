@@ -3,6 +3,8 @@
 # Cartridge Transfer Instructions
 These instructions will walk you through transfering from a dead or malfunctioning cartridge into a known good one. 
 
+<br/><br/>
+
 <img src="./images/full-assembly-labeled.png" alt="Full assembly" width="200"/>
 
 ## Definitions
@@ -19,22 +21,29 @@ These instructions will walk you through transfering from a dead or malfunctioni
  | Sending Block | Collective term for Sending Base + Sending Tube + Sending Positioner | N/A |
  | Sock | Flexible rubber container to keep alignment and compression during transfer | No. 6 |
 
+<br/><br/>
 
 ## Prerequsites
-- Sending and Receiving Tubes fit supported tube types. See // TODO Appendix
+- Decide which Sending and Receiving Tubes for your configuration. See // TODO Appendix
 - Decide which Sock is appropriate for your configuration // TODO Appendix
 - (Optional) Receiving Tube tested for continuity
+
+<br/><br/>
 
 ## Tools and Supplies
 - Cartridge Transfer Kit (tm)
 - Paper towel
 - Isopropol Alcohol
 
+<br/><br/>
+
 ## Transfer Process
 ### Setup
 1. Screw Receiving Tube into Receiving Base (No. 5) // TODO: Image
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Reminder: This is the tube that empty and known working
 2. Screw Sending Tube into Sending Base (No. 1) // TODO: Image
+
+<br/><br/>
 
 ### Assemble Receiving Block
 1. Carefully unscrew the mouthpiece from the cartridge. It may require careful plier application to the mouthpiece to loosen. 
@@ -44,6 +53,8 @@ These instructions will walk you through transfering from a dead or malfunctioni
 2. Keeping the part numbers facing the same direction, place the Receiving Positioner (No. 4) over the Receiving Tube until it seats against the Receiving Base (No. 5). You may hear a slight click as it snap-fits in place.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - To check alignment, the top of the cartridge screw should be in line with the top of the Receiving Positioner. // TODO image up close for alignment and overall to show the combined view
 
+<br/><br/>
+
 ### Assemble Sending Block
 1. Carefully unscrew the mouthpiece from the cartridge. It may require careful plier application to the mouthpiece to loosen. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **DO NOT** hold glass with pliers or it will shatter. 
@@ -52,6 +63,8 @@ These instructions will walk you through transfering from a dead or malfunctioni
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- To check alignment, the top of the cartridge screw should be in line with the top of the Sending Positioner, excluding the pins. // TODO image up close for alignment and overall to show the combined view
 3. Add Gasket over Sending Positioner pins, with the "button", the protruding bump on the gasket, facing away from the Sending Positioner and the same direction as the pins. 
 
+<br/><br/>
+
 ### Complete Assembly
 1. Place the Sending Block on a clean, flat surface.
 2. Carefully position the Receiving Block over the Sending Block, aligning the holes in the Receiving Block with the pins in the Sending Block. Gasket should be positioned between these two blocks as they come together. **This should not result in any transfer yet**
@@ -59,11 +72,15 @@ These instructions will walk you through transfering from a dead or malfunctioni
 4. Insert assembly into appropriate Sock. There should be a tight fit. // TODO: Appendix in case forgot to pick sock by now
 5. Verify assembly is secure and properly aligned. **This is the last chance to catch a problem before starting the transfer**
 
+<br/><br/>
+
 ### Transfer
 1. Rotate the assembly 180 degrees so that the numbers are all upside down and the assembly is still standing on end. // TODO: Image
 2. Find a place where the assembly can stand veritically without disturbance and out of direct sunlight.
 3. Wait 24hr.
 4. Confirm transfer is complete. The windows cut into the blocks and sock allow you to hold it up to the light in case you're not sure.
+
+<br/><br/>
 
 ### Unboxing
 0. Do all these steps carefully and keep the assembly in the transfer position (upside down numbers).
@@ -75,10 +92,17 @@ These instructions will walk you through transfering from a dead or malfunctioni
 6. Screw the mouthpiece onto the cartidge fully.
 7. Unscrew the, now full, Receiving Tube from the Receiving Base.
 
+<br/><br/>
+<br/><br/>
+
 ## Cleaning
 If you intend to reuse the assembly, it is important to clean it with isopropol alcohol after each use. The mating surfaces and insides of the Sending and Receiving Positioners as well as the Gasket are what need the most attention to remove residue. 
 
 All parts *should* be dishwasher safe but are small and easily damaged so I take no responsibility for that cleaning method.
 
+<br/><br/>
+
 ## General Disclaimer
 This website is meant for informational purposes only. No responsibility is assumed in the use of the Cart Transfer assembly or instructiosn printed herein.
+
+<br/><br/>
