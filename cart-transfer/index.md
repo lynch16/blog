@@ -31,7 +31,7 @@ These instructions will walk you through transfering from a dead or malfunctioni
 ## Transfer Process
 ### Setup
 1. Screw Receiving Tube into Receiving Base (No. 5) // TODO: Image
-    - Reminder: This is the tube that empty and known working
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Reminder: This is the tube that empty and known working
 2. Screw Sending Tube into Sending Base (No. 1) // TODO: Image
 
 ### Assemble Receiving Block
@@ -76,7 +76,7 @@ These instructions will walk you through transfering from a dead or malfunctioni
 ## Cleaning
 If you intend to reuse the assembly, it is important to clean it with isopropol alcohol after each use. The mating surfaces and insides of the Sending and Receiving Positioners as well as the Gasket are what need the most attention to remove residue. 
 
-All parts _should_ be dishwasher safe but are small and easily damaged so I take no responsibility for that cleaning method.
+All parts *should* be dishwasher safe but are small and easily damaged so I take no responsibility for that cleaning method.
 
 ## General Disclaimer
 This website is meant for informational purposes only. No responsibility is assumed in the use of the Cart Transfer assembly or instructiosn printed herein.
