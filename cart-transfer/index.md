@@ -6,18 +6,18 @@ These instructions will walk you through transfering from a dead or malfunctioni
 <img src="./images/full-assembly-labeled.png" alt="Full assembly" width="200"/>
 
 ## Definitions
- | Name | Description | Part Number | Drawing | 
+ | Name | Description | Part Number |
  |-----------|---------|-------------|---------|
- | Receiving Tube | Empty cartridge that is known to have a working element | N/A |  | 
- | Sending Tube | Cartridge that is full but isn't working | N/A |  | 
- | Receving Base | Screw holder for Receiving Tube. | No. 5 |  | 
- | Sending Base | Screw holder for Sending Tube | No. 1 |  | 
- | Receiving Positioner | Snap-fit block around Receiving Tube that aligns the flow channel. This is the one with holes to receive pins. | No. 4 |  | 
- | Sending Positioner | Snap-fit block around Sending Tube that aligns the flow channel. This is the one with pins sticking out. | No. 2 |  | 
- | Gasket | Flexible rubber seperater between Sending Positionier and Receiving Positioner. The side that has a bump sticking out goes into the Recieving Tube. | No. 3 |  | 
- | Receiving Block | Collective term for Receiving Base + Receiving Tube + Recieving Positioner | N/A |  | 
- | Sending Block | Collective term for Sending Base + Sending Tube + Sending Positioner | N/A |  | 
- | Sock | Flexible rubber container to keep alignment and compression during transfer | No. 6 |  | 
+ | Receiving Tube | Empty cartridge that is known to have a working element | N/A | 
+ | Sending Tube | Cartridge that is full but isn't working | N/A |
+ | Receving Base | Screw holder for Receiving Tube. | No. 5 |
+ | Sending Base | Screw holder for Sending Tube | No. 1 |
+ | Receiving Positioner | Snap-fit block around Receiving Tube that aligns the flow channel. This is the one with holes to receive pins. | No. 4 |
+ | Sending Positioner | Snap-fit block around Sending Tube that aligns the flow channel. This is the one with pins sticking out. | No. 2 |
+ | Gasket | Flexible rubber seperater between Sending Positionier and Receiving Positioner. The side that has a bump sticking out goes into the Recieving Tube. | No. 3 |
+ | Receiving Block | Collective term for Receiving Base + Receiving Tube + Recieving Positioner | N/A |
+ | Sending Block | Collective term for Sending Base + Sending Tube + Sending Positioner | N/A |
+ | Sock | Flexible rubber container to keep alignment and compression during transfer | No. 6 |
 
 
 ## Prerequsites
