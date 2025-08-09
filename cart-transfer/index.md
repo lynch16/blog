@@ -9,7 +9,7 @@ These instructions will walk you through transfering from a dead or malfunctioni
 
 ## Definitions
  | Name | Description | Part Number |
- |-----------|---------|-------------|---------|
+ |-----------|---------|-------------|
  | Receiving Tube | Empty cartridge that is known to have a working element | N/A | 
  | Sending Tube | Cartridge that is full but isn't working | N/A |
  | Receving Base | Screw holder for Receiving Tube. | No. 5 |
